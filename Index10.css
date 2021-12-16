@@ -1,0 +1,160 @@
+.rest{
+    background-image: url('https://images.adsttc.com/media/images/5233/a68c/e8e4/4eef/7900/0020/large_jpg/2.jpg?1379116679');
+    padding: 50px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 10px;  
+}
+.txt1{
+    color: white;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    background-position: center;
+    opacity: .7;
+    width:400px;
+    height:100px;
+    margin:auto;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.txt2{
+    color: white;
+    text-align: center;
+    font-size:medium;
+    font-style: italic;
+    background-color: black;
+    background-position: center;
+    opacity: .7;
+    width:400px;
+    height:300px;
+    margin:auto;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.txt3{
+    color: white;
+    text-align:center;
+    font-size:medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: black;
+    background-position: center;
+    opacity: .7;
+    width:400px;
+    height:50px;
+    margin:auto;
+    margin-bottom: 20px;
+    padding: 10px;
+    padding-bottom: 20%;
+}
+.des{
+    
+    background-color:transparent;
+    background-position: center;
+    text-align:right;
+    padding:70px;
+    font-size: 40px;
+    margin: 0;  
+}
+.rest2{
+    background-image: url('https://images.unsplash.com/photo-1554679665-f5537f187268?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmVzdGF1cmFudHxlbnwwfHwwfHw%3D&w=1000&q=80');
+    padding: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 10px;  
+}
+.txt4{
+    text-align:center;
+    font-size:medium;
+    background-color: black;
+    background-position: center;
+    opacity: .7;
+    width:400px;
+    height:300px;
+    margin:10px;
+    padding: 30px;
+    padding-top:30%;
+    padding-bottom: 20%;
+}
+.txt4 input[type="text"],input[type="number"],input[type=email],input
+{
+    border: none;
+    background:transparent;
+    
+    border-bottom: 1px solid rgb(252, 166, 7);   
+}
+textarea
+{
+    background:transparent;
+    border-bottom: 1px solid rgb(252, 166, 7);
+}
+button
+{
+    color: white;
+    background-color:black;
+}
+.rest3{
+    background-image: url('https://b.zmtcdn.com/data/reviews_photos/23c/50cd4075688fd0ed0ae8a87c8555023c_1557640104.jpg');
+    padding: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 10px;
+}
+.txt5
+{
+    color: black;
+    text-align: left;
+    background-color: white;
+    background-position: center;
+    opacity: .7;
+    width:500px;
+    height:500px;
+    margin:10px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.rest4
+{
+    background-image: url('https://static.toiimg.com/photo/64465873.cms');
+    padding: 500px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 10px;
+}
+.txt6{
+    border-radius: 8px;
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background-color: white;
+    background-position: center;
+    width:400px;
+    height:50px;
+    margin:10px;
+    padding-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+}
+.txt7
+{
+    color: black;
+    text-align: center;
+    font: size 30px;
+    line-height: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(189, 118, 26);
+    background-position: center;
+    width:500px;
+    height:300px;
+    margin:10px;
+    padding: 10px;
+    padding-bottom: 50px;
+}
+
+    
+
+
+
+
