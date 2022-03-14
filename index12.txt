@@ -1,0 +1,79 @@
+
+.blue{
+    background-color: blue;
+   
+}
+
+.yellow{
+    background-color: yellow;
+    
+}
+.green{
+    background-color: green;  
+}
+.red{
+    background-color: red;
+
+}
+.orange{
+    background-color: orange;
+    
+}
+.purple{
+        
+    background-color: purple;
+}
+.brown{
+    background-color: brown;
+}
+.black{
+    background-color: black;
+}
+@media(min-width:768px)
+{
+    
+    .container{
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+@media(min-width:768px)
+{
+    .container{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+}
+@media(max-width:768px)
+{
+.container
+{
+    display: flex;
+    flex-direction: column;
+   
+}}
+.blue,.brown,.black,.green,.purple,.red,.yellow,.orange
+{
+   
+    border:1px solid white;
+    height: 300px;
+    display: flex;
+}
+@media(max-width:768px)
+{
+    .blue,.brown,.black,.green,.purple,.red,.yellow,.orange
+    {
+        display: flex;
+        width: 100%;
+    }
+}
+@media(min-width:768px)
+{
+    .blue,.brown,.black,.green,.purple,.red,.yellow,.orange
+    {
+        display: flex;
+        width: 24%;
+    }
+}

@@ -1,0 +1,18 @@
+.my{
+    background-color: cadetblue;
+}
+input{
+    width: 100px;
+    height: 30px;
+    background-color:grey;
+    border: none;
+    padding:5px;
+    border-radius: 10px;
+}
+input::placeholder
+{
+    color: lavender;
+}
+a[target=_blank]{
+
+}

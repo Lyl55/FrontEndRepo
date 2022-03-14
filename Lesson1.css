@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(0, 225, 255);
+}
+.form1{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+}
+.top_side{
+    background-color: orange;
+    padding: 30px;
+
+}
+
+.top_side h2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.top_side input{
+    display: block;
+    width: 100%;
+    background-color:orangered;
+    border: none;
+    padding: 5px;
+    margin-bottom: 7px;
+    color: white;
+}
+.top_side input::placeholder{
+    color: white;
+}
+.bottom_side{
+    background-color:tomato;
+    padding: 30px 20px 30px 20px;
+
+}
+.bottom_side_item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom_side a{
+    color: white;
+    text-decoration: none;
+}
+.bottom_side button{
+    padding: 15px;
+    border: none;
+    color: red;
+
+}

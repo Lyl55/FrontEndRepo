@@ -1,0 +1,128 @@
+.txt1{
+    text-align: center;
+}
+.txt2{
+    background-image: url('https://www.forumdaily.com/wp-content/uploads/2019/12/Depositphotos_321653308_s-2019.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 900px;
+}
+.txt3{
+    background-image:url('https://www.mydomaine.com/thmb/oIrbsqITNc5pLr6wR4R5XSJuGIE=/2119x1192/smart/filters:no_upscale()/KseniyaOvchinnikova_GettyImages_Christmastree-3f5bef8f753d428faadbf2c3b1ee3d11.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 500px;
+    margin:100px;
+    border-radius: 8px;
+    
+}
+.txt5{
+    background-image:url('https://loveincorporated.blob.core.windows.net/contentimages/fullsize/c53f3bf9-e515-42f8-8b14-daefedd936cf-christmas-gift-guide-2020.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    padding: 500px;
+    margin:70px;
+    margin-bottom: 120px;
+}
+.txt6{
+    text-align: center;
+}
+.lnk{
+    text-align: center;
+}
+.noel{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('https://altinbaslife.com/wp-content/uploads/2019/12/noel-baba1.jpg');
+
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 10px;  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 600px;
+    margin-bottom: 20px;
+    padding: 120px;
+    
+}
+.text{
+    text-align: center;
+    color:white;
+    font-size: 30px;
+
+}
+.join{
+    color: white;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.button{
+        background-color: red;
+        
+        color:white;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        height: 50px;
+        width:200px;
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+}
+.button a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    size: 20px;
+}
+.wn{
+    background-image:url('https://i.pinimg.com/originals/2a/0d/74/2a0d744e53eb287e79854a92b235c720.jpg');
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin:70px;
+    height: 1100px;
+    width:1300px;
+
+}.contact{
+    background-color:black;
+    color:white;
+}
+.pp a{
+    color: white;
+}
+.contact a{
+    color: white;
+}
+
+@media(max-width:768px)
+{
+    .txt1,.txt2,.txt4,.txt6,.lnk,.noel,.join,.contact
+    {
+        display: flex;
+        width: 100%;
+    }
+}
+@media(min-width:768px)
+{
+    .txt1,.txt2,.txt4,.txt6,.lnk,.noel,.join,.contact
+    {
+        display: flex;
+        width: 100%;
+    }
+}
+.txt1,.txt2,.txt4,.txt6,.contact,.join{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
