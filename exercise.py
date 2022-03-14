@@ -28,7 +28,6 @@ while(ch==1):
            print("Thank you for using this calculator!")
 """
     
-    
 #Random     
 """
 import random
@@ -50,7 +49,4 @@ if(len(a)>=8 and len(a)<=13):
     print('Successfully')
 else:
     print('Incorrect password!!!')"""
-    
-
-
     
