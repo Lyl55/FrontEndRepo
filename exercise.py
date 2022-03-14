@@ -28,6 +28,8 @@ while(ch==1):
            print("Thank you for using this calculator!")
 """
     
+    
+    
 
 #Random     
 """
@@ -43,7 +45,6 @@ while count<3:
         count+=1
 print("Number is {}".format(num2))
 """
-
 
 #Password
 """a=input()
