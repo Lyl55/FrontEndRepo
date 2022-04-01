@@ -1,0 +1,18 @@
+ul{
+    list-style-type:disc;
+}
+/* 
+.parent {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    z-index: 1;
+    position: relative;
+   } */
+img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+

@@ -7,6 +7,17 @@ body{
      align-items: center;
      height: 100vh;
 }
+
+.my h2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.my button{
+    align-items: center;
+}
+
 .top_side{
     background-color: orange;
     padding: 30px;
@@ -18,18 +29,7 @@ body{
     color: white;
     font-size: 20px;
 }
-.top_side input{
-    display: block;
-    width: 100%;
-    background-color:orangered;
-    border: none;
-    padding: 5px;
-    margin-bottom: 7px;
-    color: white;
-}
-.top_side input::placeholder{
-    color: white;
-}
+
 .bottom_side{
     background-color:tomato;
     padding: 30px 20px 30px 20px;

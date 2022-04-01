@@ -1,0 +1,72 @@
+.my{
+    background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-036.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 600px;
+}
+.my h1{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.holders{
+    padding:20px ;
+}
+
+.my button{
+     padding:20px ;
+}
+
+.items{
+    padding:20px ;
+}
+
+
+.my2{
+    background-image: url('https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-036.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 600px;
+}
+.all{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.my2 h2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.top_side input{
+    display: block;
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 7px;
+    color: white;
+}
+.bottom_side{
+    padding: 30px 20px 30px 20px;
+
+}
+.bottom_side_item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bottom_side a{
+    color: white;
+    text-decoration: none;
+}
+.bottom_side button{
+    padding: 15px;
+    border: none;
+    color: red;
+
+}
